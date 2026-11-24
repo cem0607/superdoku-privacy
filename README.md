@@ -31,4 +31,4 @@ Google AdMob ([Google Gizlilik Politikası](https://policies.google.com/privacy)
 - **Profile photo (optional):** stays on your device unless you enable "Show my photo on the leaderboard".
 - **Ads:** Google AdMob may show ads and process advertising ID and device data under its own policy. A consent form is shown in the EEA and UK.
 - Players can report and block inappropriate nicknames or photos in the app; reported content is reviewed and removed if necessary.
-- To request deletion of your leaderboard data, email subhanbekir@gmail.com. Uninstalling the app removes on-device data. The app does not knowingly collect personal data from children under 13.-privacy
+- To request deletion of your leaderboard data, email subhanbekir@gmail.com. Uninstalling the app removes on-device data. The app does not knowingly collect personal data from children under 
